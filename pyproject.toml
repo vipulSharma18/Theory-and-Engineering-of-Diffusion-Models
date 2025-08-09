@@ -8,7 +8,6 @@ dependencies = [
     "torch",
     "torchao",
     "torchvision",
-    "pytorch-triton",
     "huggingface_hub",
     "diffusers",
     "transformers",
