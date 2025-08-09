@@ -14,14 +14,6 @@ dependencies = [
     "transformers",
 ]
 
-[build-system]
-requires = ["uv_build>=0.8.7,<0.9.0"]
-build-backend = "uv_build"
-
-[tool.uv.build-backend]
-module-name = "exploring_diffusion_with_lora"
-module-root = "src"
-
 [[tool.uv.index]]
 name = "pytorch-cu128"
 url = "https://download.pytorch.org/whl/cu128"

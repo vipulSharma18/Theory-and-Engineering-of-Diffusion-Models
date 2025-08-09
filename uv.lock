@@ -88,7 +88,7 @@ wheels = [
 [[package]]
 name = "exploring-diffusion-with-lora"
 version = "0.1.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "diffusers" },
     { name = "huggingface-hub" },
