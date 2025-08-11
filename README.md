@@ -4,14 +4,16 @@
 
 In-depth exploration of the math and the ML systems engineering behind Diffusion models. We implement the math from first principles and scale it using industry ML systems techniques.
 
-## References:
+## References-Math:
+
+[1] P. Nakkiran, A. Bradley, H. Zhou, and M. Advani, “Step-by-Step Diffusion: An Elementary Tutorial,” June 23, 2024, arXiv: arXiv:2406.08929. doi: 10.48550/arXiv.2406.08929.
+
+[2] “Tutorial on Diffusion Models for Imaging and Vision,” alphaXiv. Accessed: Aug. 10, 2025. [Online]. Available: https://www.alphaxiv.org/abs/2403.18103
+
+## References-Engineering:
 
 [1] “CVPR 2022-Denoising Diffusion-based Generative Modeling: Foundations and Applications,” Denoising Diffusion-based Generative Modeling: Foundations and Applications. Accessed: Aug. 10, 2025. [Online]. Available: https://cvpr2022-tutorial-diffusion-models.github.io
 
 [2] “CVPR 2023-Denoising Diffusion-based Generative Modeling: Foundations and Applications,” Denoising Diffusion-based Generative Modeling: Foundations and Applications. Accessed: Aug. 10, 2025. [Online]. Available: https://cvpr2023-tutorial-diffusion-models.github.io
 
 [3] “CVPR 2024 Tutorial on Diffusion-based Video Generative Models,” CVPR 2024 Tutorial on Diffusion-based Video Generative Models. Accessed: Aug. 10, 2025. [Online]. Available: https://showlab.github.io/cvpr2024-tutorial-video-diffusion-models
-
-[4] P. Nakkiran, A. Bradley, H. Zhou, and M. Advani, “Step-by-Step Diffusion: An Elementary Tutorial,” June 23, 2024, arXiv: arXiv:2406.08929. doi: 10.48550/arXiv.2406.08929.
-
-[5] “Tutorial on Diffusion Models for Imaging and Vision,” alphaXiv. Accessed: Aug. 10, 2025. [Online]. Available: https://www.alphaxiv.org/abs/2403.18103
