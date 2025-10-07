@@ -10,6 +10,8 @@ In-depth exploration of the math and the ML systems engineering behind Diffusion
 
 [2] “Tutorial on Diffusion Models for Imaging and Vision,” alphaXiv. Accessed: Aug. 10, 2025. [Online]. Available: https://www.alphaxiv.org/abs/2403.18103
 
+[3] https://arxiv.org/abs/2208.11970
+
 ## References-Engineering:
 
 [1] “CVPR 2022-Denoising Diffusion-based Generative Modeling: Foundations and Applications,” Denoising Diffusion-based Generative Modeling: Foundations and Applications. Accessed: Aug. 10, 2025. [Online]. Available: https://cvpr2022-tutorial-diffusion-models.github.io
